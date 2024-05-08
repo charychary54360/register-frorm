@@ -1,0 +1,75 @@
+#div{
+	background-image: url(../IMAGEREGISTER.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: cadetblue;
+}
+#div:active{
+	color: burlywood;
+}
+#div:hover{
+	color:goldenrod;
+	background-image: url(../spiderimg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#div1{
+	background-color:gray;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#div1:hover{
+	background-color:tomato;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-style: italic;
+}
+#fname{
+	background-color: aliceblue;
+}
+#fname:hover{
+	background-color: aqua;
+}
+#lname{
+	background-color: aliceblue;
+}
+#lname:hover{
+	background-color: aqua;
+}
+#phone{
+	background-color: aliceblue;
+}
+#phone:hover{
+	background-color: aqua;
+}
+#email{
+	background-color: aliceblue;
+}
+#email:hover{
+	background-color: aqua;
+}
+#password{
+	background-color: aliceblue;
+}
+#password:hover{
+	background-color: aqua;
+}
+#cpassword{
+	background-color: aliceblue;
+}
+#cpassword:hover{
+	background-color: aqua;
+}
+#qul{
+	background-color: aliceblue;
+}
+#qul:hover{
+	background-color: aqua;
+}
+#btn{
+	align-items: center;
+	align-content: center;
+}
